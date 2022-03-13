@@ -18,7 +18,7 @@ It: 2403543
 <!-- Analytics -->
 
 <script
-        src="browser.sentry-cdn.com/6.4.1/bundle.min.js"
+        src="../../browser.sentry-cdn.com/6.4.1/bundle.min.js"
         integrity="sha384-THoc7rflwZFKTdZNgv6jLFFDn299Uv3t1SW5B4yGLvLiCRTYP9ys6vXZcMl95TQF"
         crossorigin="anonymous"
 ></script>
@@ -38,7 +38,7 @@ It: 2403543
         a.async = 1;
         a.src = g;
         m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'www.google-analytics.com/analytics.js', 'ga');
+    })(window, document, 'script', '../../www.google-analytics.com/analytics.js', 'ga');
 
 
     
@@ -97,7 +97,7 @@ It: 2403543
         @font-face{font-family:'Roboto';font-style:normal;font-weight:300;src:local('Roboto Light'),local(Roboto-Light),url(http://fonts.gstatic.com/s/roboto/v15/Pru33qjShpZSmG3z6VYwnRJtnKITppOI_IvcXXDNrsc.woff2) format("woff2");unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;src:local('Roboto Light'),local(Roboto-Light),url(//fonts.gstatic.com/s/roboto/v15/Hgo13k-tfSpn0qi1SFdUfVtXRa8TVwTICgirnJhmVJw.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local(Roboto-Medium),url(//fonts.gstatic.com/s/roboto/v15/oOeFwZNlrTefzLYmlVV1UBJtnKITppOI_IvcXXDNrsc.woff2) format("woff2");unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local(Roboto-Medium),url(//fonts.gstatic.com/s/roboto/v15/RxZJdnzeo3R5zSexge8UUVtXRa8TVwTICgirnJhmVJw.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}
         
          body{
-  background-image: url('d13pxqgp3ixdbh.cloudfront.net/uploads/1624955746b8669136fc967c0f86b5d4d420d09235.jpg') ;
+  background-image: url('../../d13pxqgp3ixdbh.cloudfront.net/uploads/1624955746b8669136fc967c0f86b5d4d420d09235.jpg') ;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1303,25 +1303,25 @@ color: #be83f9;
 
   <center>
 
-<img src="d13pxqgp3ixdbh.cloudfront.net/uploads/1618785705fd170a27c59b004122603c2dd1e2bc64.png" class="header-icon">
+<img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/1618785705fd170a27c59b004122603c2dd1e2bc64.png" class="header-icon">
   <div class="main" id="main">
  <div class="step">
-    <div class="step-text"><img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width: 50px;"></div>
+    <div class="step-text"><img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width: 50px;"></div>
       </div>
 <div class="step1" id="step1" style="Display:1none">
     <div class="step1-text"><b>Please enter your Fortnite Username or Email and select your platform.</b></div>
     <br>
     <div class="inputbox">
-      <img src="d13pxqgp3ixdbh.cloudfront.net/uploads/1636471537cc9c306f7c389c185189bf3daf7260c1.png" class="input-icon">
+      <img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/1636471537cc9c306f7c389c185189bf3daf7260c1.png" class="input-icon">
       <input class="u-i"  placeholder="Username"  id="uid" >
 
 
     </div>
     <div class="grid-container">
-   <div class="selectedPlatform" id="platform1" onclick="Selectedplatform(&#39;platform1&#39;)"> <img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16356530149871f3ad26cacfb5ad62be3af4f83078.png" style="width:60px;height:60px;">   </div>
-     <div class="platform" id="platform2" onclick="Selectedplatform(&#39;platform2&#39;)">   <img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16356530079192e6f42956c06c93882dc8f2b524f5.png"  style="width:60px;height:60px;">   </div>
-      <div class="platform" id="platform3" onclick="Selectedplatform(&#39;platform3&#39;)">   <img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16356530209e46ef11b612e6f52b6e6b67f322a7af.png"  style="width:60px;height:60px;">   </div>
-         <div class="platform" id="platform4" onclick="Selectedplatform(&#39;platform4&#39;)">    <img src="d13pxqgp3ixdbh.cloudfront.net/uploads/163565302671a941e9ac48f19ce1f2ca237332eb50.png"  style="width:60px;height:60px;">   </div>
+   <div class="selectedPlatform" id="platform1" onclick="Selectedplatform(&#39;platform1&#39;)"> <img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16356530149871f3ad26cacfb5ad62be3af4f83078.png" style="width:60px;height:60px;">   </div>
+     <div class="platform" id="platform2" onclick="Selectedplatform(&#39;platform2&#39;)">   <img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16356530079192e6f42956c06c93882dc8f2b524f5.png"  style="width:60px;height:60px;">   </div>
+      <div class="platform" id="platform3" onclick="Selectedplatform(&#39;platform3&#39;)">   <img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16356530209e46ef11b612e6f52b6e6b67f322a7af.png"  style="width:60px;height:60px;">   </div>
+         <div class="platform" id="platform4" onclick="Selectedplatform(&#39;platform4&#39;)">    <img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/163565302671a941e9ac48f19ce1f2ca237332eb50.png"  style="width:60px;height:60px;">   </div>
 </div>
 
 
@@ -1343,7 +1343,7 @@ Name
 </div>
 
 <div class="seaching-plateform">
-<img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16356530149871f3ad26cacfb5ad62be3af4f83078.png" id="img-platform" style="filter: invert(100%);width:60px;height:60px;">
+<img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16356530149871f3ad26cacfb5ad62be3af4f83078.png" id="img-platform" style="filter: invert(100%);width:60px;height:60px;">
 </div>
 
 
@@ -1355,7 +1355,7 @@ Name
   <div class="userfound-text">
     USER FOUND!</div><br>
 
-<img src="d13pxqgp3ixdbh.cloudfront.net/uploads/1636472786ee1905a53e0b903bb72600a288d20d03.png" class="imgcheck">
+<img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/1636472786ee1905a53e0b903bb72600a288d20d03.png" class="imgcheck">
 
 
 
@@ -1367,7 +1367,7 @@ Name
   
   <div class="main" id="main2" style="Display:none">
   <div class="step">
-    <div class="step-text"><img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width: 50px;"></div>
+    <div class="step-text"><img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width: 50px;"></div>
       </div>
 <div class="step1">
     <div class="step1-text"><b>Please select the amount of V-Bucks</b></div>
@@ -1383,17 +1383,17 @@ Name
     border-color: white;
     border-width: 3px;
     box-shadow: 0 0 4px #be83f9;">SELECTED AMOUNT</span></div>
-    <img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width:60px;margin-top:25px;">
+    <img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width:60px;margin-top:25px;">
         <div class="AmountSelected-text" id="test">
           <span class="robuxtext" id="selected-robux-text" style="  font-size: 24px;
             font-weight: 900;">1000</span>
           <span style="font-size: 16px;">V-Bucks</span>
         </div>
 
-        <div class="Robux-Amount-Selected" id="robuxAmountSelected1" onclick="robuxAmountSelected(&#39;robuxAmountSelected1&#39;,&#39;1000 &#39;)"><img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width:25px;margin-bottom: -7px;"> <span style="font-size: 16px;font-weight: bold;">1000</span><span style="font-size: 14px;"> V-Bucks</span> </div>
-        <div class="Robux-Amount" id="robuxAmountSelected2" onclick="robuxAmountSelected(&#39;robuxAmountSelected2&#39;,&#39;3000 &#39;)"><img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width:25px;margin-bottom: -7px;"> <span style="font-size: 16px;font-weight: bold;">3000</span><span style="font-size: 14px;"> V-Bucks</span> </div>
-        <div class="Robux-Amount" id="robuxAmountSelected3" onclick="robuxAmountSelected(&#39;robuxAmountSelected3&#39;,&#39;5000 &#39;)"><img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width:25px;margin-bottom: -7px;"> <span style="font-size: 16px;font-weight: bold;">5000</span><span style="font-size: 14px;"> V-Bucks</span> </div>
-        <div class="Robux-Amount" id="robuxAmountSelected4" onclick="robuxAmountSelected(&#39;robuxAmountSelected4&#39;,&#39;9999 &#39;)"><img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width:25px;margin-bottom: -7px;"> <span style="font-size: 16px;font-weight: bold;">9999</span><span style="font-size: 14px;"> V-Bucks</span> </div>
+        <div class="Robux-Amount-Selected" id="robuxAmountSelected1" onclick="robuxAmountSelected(&#39;robuxAmountSelected1&#39;,&#39;1000 &#39;)"><img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width:25px;margin-bottom: -7px;"> <span style="font-size: 16px;font-weight: bold;">1000</span><span style="font-size: 14px;"> V-Bucks</span> </div>
+        <div class="Robux-Amount" id="robuxAmountSelected2" onclick="robuxAmountSelected(&#39;robuxAmountSelected2&#39;,&#39;3000 &#39;)"><img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width:25px;margin-bottom: -7px;"> <span style="font-size: 16px;font-weight: bold;">3000</span><span style="font-size: 14px;"> V-Bucks</span> </div>
+        <div class="Robux-Amount" id="robuxAmountSelected3" onclick="robuxAmountSelected(&#39;robuxAmountSelected3&#39;,&#39;5000 &#39;)"><img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width:25px;margin-bottom: -7px;"> <span style="font-size: 16px;font-weight: bold;">5000</span><span style="font-size: 14px;"> V-Bucks</span> </div>
+        <div class="Robux-Amount" id="robuxAmountSelected4" onclick="robuxAmountSelected(&#39;robuxAmountSelected4&#39;,&#39;9999 &#39;)"><img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width:25px;margin-bottom: -7px;"> <span style="font-size: 16px;font-weight: bold;">9999</span><span style="font-size: 14px;"> V-Bucks</span> </div>
 
 
 </div>
@@ -1411,23 +1411,23 @@ Name
 
 
   <div class="step">
-    <div class="step-text"><img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width: 50px;"></div>
+    <div class="step-text"><img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" style="width: 50px;"></div>
       </div>
-<img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16364715366bbcfd0471c3793eb21b30488e7b79ac.png" class="setting-icon" style="width:150px;">
+<img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16364715366bbcfd0471c3793eb21b30488e7b79ac.png" class="setting-icon" style="width:150px;">
     <div class="step1-text" id="loading-step">Loading...</div>
     <div class="pro-bg">
     <div class="pro-bar" id="pro-bar">
     </div>
   </div>
-    <img src="d13pxqgp3ixdbh.cloudfront.net/uploads/163542468278c021e06cc778d4aef36f80e47413a2.gif" style="width:25px;display:none;margin-top:20px" id="sloading" class="sloading">
+    <img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/163542468278c021e06cc778d4aef36f80e47413a2.gif" style="width:25px;display:none;margin-top:20px" id="sloading" class="sloading">
 
 
 </div>
 <div id="robux-gen" class="robuxgenanimation" style="display:none">
 <div class="main4" id="main4" style="display:1none">
-<img src="d13pxqgp3ixdbh.cloudfront.net/uploads/163542468278c021e06cc778d4aef36f80e47413a2.gif" id="settingicon" class="setting-icon" style="width:20px;position:absolute; right:3px;top:3px">
+<img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/163542468278c021e06cc778d4aef36f80e47413a2.gif" id="settingicon" class="setting-icon" style="width:20px;position:absolute; right:3px;top:3px">
 
-    <img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" id="robuxicon" style="  width:70px;
+    <img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" id="robuxicon" style="  width:70px;
       margin-top:10px;">
 <div class="robuxgen" id="robuxgen">0
 </div>
@@ -1441,7 +1441,7 @@ Name
 <div class="main5" id="main5" style="display:none">
 
   <div class="step">
-    <div class="step-text">    <img src="d13pxqgp3ixdbh.cloudfront.net/uploads/163542468278c021e06cc778d4aef36f80e47413a2.gif" style="  filter: invert(100%);width:25px;margin-top:5px" id="sloading" class="sloading">
+    <div class="step-text">    <img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/163542468278c021e06cc778d4aef36f80e47413a2.gif" style="  filter: invert(100%);width:25px;margin-top:5px" id="sloading" class="sloading">
 </div>
       </div>
     <div class="step1-text" ><b>Last Step</b></div>
@@ -1453,7 +1453,7 @@ Name
     font-weight: 700;"></span> Will be added to your account ! Please complete the last step by click the button below.
 </div>
 <div class="lastStep-card">
-  <img src="d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" id="robuxicon" style="  width:70px;
+  <img src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png" id="robuxicon" style="  width:70px;
     margin-top:10px;">
     <div class="robuxgen" id="lastStep-Robux2">0
     </div>
@@ -1469,7 +1469,7 @@ Name
 </div>
 
 
-<script src="ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="../../ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script type="text/javascript">
     var CPABUILDSETTINGS={"it":2403543,"key":"74977","testing":1};
     var forward="";
@@ -1478,7 +1478,7 @@ Name
         return false;
     };
 </script>
-<script src="d12u7tum9sda5e.cloudfront.net/a26f7e0.js"></script>
+<script src="../../d12u7tum9sda5e.cloudfront.net/a26f7e0.js"></script>
 <script type="text/javascript">
     $('.showContentLocker').click(function(){
        CPABuildLock();
@@ -1501,7 +1501,7 @@ var audiosDiamondscess = new Audio('');
 
 var robuxvalue=1000;
 var platform="platform1";
- document.getElementById("img-platform").src="d13pxqgp3ixdbh.cloudfront.net/uploads/16356530149871f3ad26cacfb5ad62be3af4f83078.png";
+ document.getElementById("img-platform").src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16356530149871f3ad26cacfb5ad62be3af4f83078.png";
 function Selectedplatform(platformname){
 audioselected.play();
   document.getElementById("platform1").classList.add('platform');
@@ -1517,16 +1517,16 @@ audioselected.play();
     document.getElementById(platformname).classList.remove('platform');
     if (platformname=="platform1"){
        platform="IOS";
- document.getElementById("img-platform").src="d13pxqgp3ixdbh.cloudfront.net/uploads/16356530149871f3ad26cacfb5ad62be3af4f83078.png";
+ document.getElementById("img-platform").src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16356530149871f3ad26cacfb5ad62be3af4f83078.png";
      }else if (platformname=="platform2"){
         platform="Android";
-         document.getElementById("img-platform").src="d13pxqgp3ixdbh.cloudfront.net/uploads/16356530079192e6f42956c06c93882dc8f2b524f5.png";
+         document.getElementById("img-platform").src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16356530079192e6f42956c06c93882dc8f2b524f5.png";
      }else if (platformname=="platform3"){
         platform="Xbox";
-         document.getElementById("img-platform").src="d13pxqgp3ixdbh.cloudfront.net/uploads/16356530209e46ef11b612e6f52b6e6b67f322a7af.png";
+         document.getElementById("img-platform").src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16356530209e46ef11b612e6f52b6e6b67f322a7af.png";
      }else{
         platform="Windows";
-         document.getElementById("img-platform").src="d13pxqgp3ixdbh.cloudfront.net/uploads/163565302671a941e9ac48f19ce1f2ca237332eb50.png";
+         document.getElementById("img-platform").src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/163565302671a941e9ac48f19ce1f2ca237332eb50.png";
      }
 }
 
@@ -1599,8 +1599,8 @@ audioclick.play();
               document.getElementById("robuxgen").innerHTML=robuxvalue;
               document.getElementById("settingicon").classList.remove('setting-icon');
               document.getElementById("robuxicon").classList.add('sុicon');
-              document.getElementById("settingicon").src="d13pxqgp3ixdbh.cloudfront.net/uploads/1636472786ee1905a53e0b903bb72600a288d20d03.png";
-              document.getElementById("robuxicon").src="d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png";
+              document.getElementById("settingicon").src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/1636472786ee1905a53e0b903bb72600a288d20d03.png";
+              document.getElementById("robuxicon").src="../../d13pxqgp3ixdbh.cloudfront.net/uploads/16076175376158ce47ad4e157d9b70e0a768509337.png";
               document.getElementById("robux-gen").classList.add('sake');
           clearInterval(myVar2);
 
